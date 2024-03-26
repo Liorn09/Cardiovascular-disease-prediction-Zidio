@@ -1,6 +1,6 @@
-# Zidiocvdgp45OmolayoIpinsanmi
+# Zidio cvd prediction group 45 Omolayo Ipinsanmi
 
-PROJECT AIM
+# PROJECT AIM <br>
 The main aim of this project is to build a model that can predict whether a patient has a Cardiovascular disease of not. This will help in the early detection of the disease and assit in preventing unforseen circumstances that can arrive due to complacency.
 
 ###  Overview of the dataset
